@@ -1,0 +1,95 @@
+msgid "Enter your Telegram ID"
+msgstr "Inserisci il tuo Telegram ID"
+
+msgid "Enter your Message"
+msgstr "Inserisci il messaggio"
+
+msgid "Send text"
+msgstr "Invia messaggio"
+
+msgid "Send file"
+msgstr "Invia file"
+
+msgid "Not exist"
+msgstr "Non esiste"
+
+msgid "Empty Telegram ID"
+msgstr "Telegram ID vuoto"
+
+msgid "Empty Message"
+msgstr "Messaggio vuoto"
+
+msgid "Empty file"
+msgstr "File vuoto"
+
+msgid "User does not exist"
+msgstr "l'utente non esiste"
+
+msgid "Your Telegram ID: %s"
+msgstr "Tuo Telegram ID: %s"
+
+msgid "Get Telegram ID"
+msgstr "Ottieni Telegram ID"
+
+msgid "Welcome"
+msgstr "Benvenuto"
+
+msgid "All Records have been deleted"
+msgstr "Tutti i record sono stati eliminati"
+
+msgid "HTML not allowed"
+msgstr "HTML non consentito"
+
+msgid "You are banned"
+msgstr "Sei bannato"
+
+msgid "Error"
+msgstr "Errore"
+
+msgid "Success"
+msgstr "Successo"
+
+msgid "Pin error"
+msgstr "Pin sbagliato"
+
+msgid "Attention! %s attempts left before delete record"
+msgstr "Attenzione! %s tentativi rimasti prima di eliminare il record"
+
+msgid "Delete record"
+msgstr "Elimina messaggio"
+
+msgid "Download"
+msgstr "Scarica"
+
+msgid "Max file size: %s"
+msgstr "Dimensione massima del file: %s"
+
+msgid "Back"
+msgstr "Indietro"
+
+msgid "Validate"
+msgstr "Convalidare"
+
+msgid "Pin"
+msgstr "Codice Pin"
+
+msgid "Welcome to tFILES"
+msgstr "Benvenuto in tFILES"
+
+msgid "Record expiration: "
+msgstr "Scadenza record: "
+
+msgid "Download file"
+msgstr "Scaricare file"
+
+msgid "Delete file"
+msgstr "Elimina file"
+
+msgid "File name"
+msgstr "Nome del file"
+
+msgid "New app version released! %s"
+msgstr "Nuova versione dell'app rilasciata! %s"
+
+msgid "Logout"
+msgstr "Logout"

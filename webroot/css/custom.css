@@ -1,0 +1,13 @@
+.text-danger { color: darkred; }
+.text-whitesmoke { color: whitesmoke !important; }
+.hidden { display: none; }
+.background-body { background-color: #45484a; }
+.margin-5 { margin: 5px; }
+.width-100 { width: 100% }
+
+/* progress bar */
+.meter { height: 5px; position: relative; background: #f3efe6; overflow: hidden; }
+.meter span { display: block; height: 100%; }
+.progress { background-color: #45484a; -webkit-animation: progressBar 30s ease-in-out; -webkit-animation-fill-mode:both; -moz-animation: progressBar 30s ease-in-out; -moz-animation-fill-mode:both; }
+@-webkit-keyframes progressBar { 0% { width: 0; } 100% { width: 100%; }}
+@-moz-keyframes progressBar { 0% { width: 0; } 100% { width: 100%; }}
