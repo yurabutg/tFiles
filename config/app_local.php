@@ -15,7 +15,7 @@ return [
      * Development Mode:
      * true: Errors and warnings shown.
      */
-    'debug' => filter_var(env('DEBUG', false), FILTER_VALIDATE_BOOLEAN),
+    'debug' => filter_var(env('DEBUG', true), FILTER_VALIDATE_BOOLEAN),
 
     /*
      * Security and encryption configuration
@@ -25,7 +25,7 @@ return [
      *   You should treat it as extremely sensitive data.
      */
     'Security' => [
-        'salt' => env('SECURITY_SALT', '*****'),
+        'salt' => env('SECURITY_SALT', '099f848e1e102aed953df90ba081c6ba0e105cafc3d5d7cc7c12036b82e60eb0'),
     ],
 
     /*
@@ -44,10 +44,10 @@ return [
              */
             //'port' => 'non_standard_port_number',
 
-            'username' => '*****',
-            'password' => '*****',
+            'username' => 'my_app',
+            'password' => 'secret',
 
-            'database' => '*****',
+            'database' => 'my_app',
             /**
              * If not using the default 'public' schema with the PostgreSQL driver
              * set it here.
