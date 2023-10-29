@@ -21,7 +21,6 @@ $config['security_key'] = base64_encode('5uruJNdSbB63hg' . md5($config['telegram
 $config['reCaptcha_site_key'] = '6LfNPv8cAAAAAEETIvq2URoL0TMH7OrnwDPVmzVe';
 $config['reCaptcha_secret_key'] = '6LfNPv8cAAAAAJGuGHFEK4spDXybP5_3bebvYYN_';
 
-
 $config['default_ban_time'] = 600; // Seconds
 $config['pin_attempts_count_before_delete'] = 5;
 $config['record_lifetime'] = 60 * 60 * 2; // Seconds
